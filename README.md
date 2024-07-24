@@ -1,1 +1,1 @@
-"Inicializando proyecto BongoPets" 
+" BongoPets" 
